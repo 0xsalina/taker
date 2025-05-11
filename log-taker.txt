@@ -4887,3 +4887,12 @@
 5/10/2025 | 8:15:25 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/10/2025 | 8:15:25 PM | INFO | Trying to activate mining on-chain for wallet: 0xa6D7989db5FC55A3749B056Be95C82E8E55e7A91 
 5/10/2025 | 8:15:31 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x4efa3d366dd54896aebe0ed52de2b9808b7fdea70d56f5f4948b3ae3cf7ad19f 
+5/11/2025 | 1:20:13 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/11/2025 | 1:20:13 AM | INFO | Start process for wallet 0xa6D7989db5FC55A3749B056Be95C82E8E55e7A91 
+5/11/2025 | 1:20:14 AM | INFO | Trying To Login for wallet: 0xa6D7989db5FC55A3749B056Be95C82E8E55e7A91 
+5/11/2025 | 1:20:14 AM | INFO | Login successful... 
+5/11/2025 | 1:20:14 AM | INFO | Trying to check user info... 
+5/11/2025 | 1:20:15 AM | INFO | User ID: 28323998 | Twitter: @salinamrnda | Total Points: 1824000 
+5/11/2025 | 1:20:15 AM | INFO | Trying to check user miner status... 
+5/11/2025 | 1:20:16 AM | INFO | Last mining time: 5/10/2025, 8:15:30 PM
+5/11/2025 | 1:20:16 AM | WARN | Mining already started, next mining time is: 5/11/2025, 8:15:30 PM
